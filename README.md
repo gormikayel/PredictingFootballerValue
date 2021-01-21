@@ -4,4 +4,4 @@ The term “Moneyball” was coined back in 2002 when the Oakland Athletics buil
 
 The goal of this project was to create a model that was able to predict a player’s value (i.e. is he worth the money). This project highlights data wrangling, informative visualizations, and machine learning models such linear regression, and ensemble regressors like Gradient Boosting. 
 
-[Capstone notebook](https://github.com/gormikayel/PredictingFootballerValue/blob/main/Capstone1(%20FIFA19)Updated.ipynb)
+[Predicting Player's Value notebook](https://github.com/gormikayel/PredictingFootballerValue/blob/main/Capstone1(%20FIFA19)Updated.ipynb)
